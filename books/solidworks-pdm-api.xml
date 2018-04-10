@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Articles>
+    <Article id="0_1" name="Getting Started" link="#">
+      <Nodes>
+        <Article id="0_1_1" name="Developing Stand-Alone Application" link="X" />
+        <Article id="0_1_2" name="Developing Add-Ins" link="#">
+          <Nodes>
+            <Article id="0_1_2_1" name="How To Create SOLIDWORKS PDM Professional Add-In" link="http://www.codestack.net/2018/03/how-to-create-solidworks-pdm.html" />
+            <Article id="0_1_2_2" name="Debugging SOLIDWORKS PDM Add-In - Best Practices" link="http://www.codestack.net/2018/03/debugging-solidworks-pdm-add-in-best.html" />
+          </Nodes>
+        </Article>
+      </Nodes>
+    </Article>
+    <Article id="0_2" name="PDM Tasks" link="#">
+      <Nodes>
+        <Article id="0_2_1" name="Built-In Tasks" link="#">
+          <Nodes>
+            <Article id="0_2_1_1" name="Customizing SOLIDWORKS PDM Convert Task" link="http://www.codestack.net/2018/03/customizing-solidworks-pdm-convert-task.html" />
+          </Nodes>
+        </Article>
+      </Nodes>
+    </Article>
+  </Articles>
+</Book>

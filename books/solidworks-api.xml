@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Articles>
+    <Article id="0_1" name="Getting Started" link="#">
+      <Nodes>
+        <Article id="0_1_1" name="Connect to SOLIDWORKS from Stand-Alone Application" link="https://www.codestack.net/2018/03/connect-to-solidworks-from-stand-alone.html">
+          <Nodes>
+            <Article id="0_1_1_1" name="Create C# Stand-Alone Application for SOLIDWORKS" link="https://www.codestack.net/2018/03/create-c-stand-alone-application-for.html" />
+            <Article id="0_1_1_2" name="Create VB.NET Stand-Alone Application for SOLIDWORKS" link="https://www.codestack.net/2018/03/create-vbnet-stand-alone-application.html" />
+            <Article id="0_1_1_3" name="Create C++ Stand-Alone Application for SOLIDWORKS" link="https://www.codestack.net/2018/03/create-c-stand-alone-application-for_5.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_1_2" name="Inter-process Communication" link="#">
+          <Nodes>
+            <Article id="0_1_2_1" name="Pass Parameters To VBA Macro" link="#">
+              <Nodes>
+                <Article id="0_1_2_1_1" name="Via Clipboard" link="https://www.codestack.net/2018/04/pass-arguments-to-vba-macro-via-clipboard.html" />
+              </Nodes>
+            </Article>
+          </Nodes>
+        </Article>
+      </Nodes>
+    </Article>
+    <Article id="0_2" name="Document" link="#">
+      <Nodes>
+        <Article id="0_2_1" name="Block Model Editing" link="https://www.codestack.net/2018/03/block-model-editing.html" />
+        <Article id="0_2_2" name="Set BOM Quantity (Unit Of Measure) Property In The Model" link="https://www.codestack.net/2018/03/set-bom-quantity-unit-of-measure.html" />
+        <Article id="0_2_3" name="Delete All Equations From SOLIDWORKS Model" link="https://www.codestack.net/2018/03/delete-all-equations-from-solidworks.html" />
+        <Article id="0_2_4" name="Assembly" link="#">
+          <Nodes>
+            <Article id="0_2_4_1" name="Show Selected Assembly Component In The Window Folder" link="https://www.codestack.net/2018/03/show-selected-assembly-component-in.html" />
+            <Article id="0_2_4_2" name="Add Components To Assembly" link="https://www.codestack.net/2018/03/solidworks-api-assembly-add-components.html" />
+            <Article id="0_2_4_3" name="Add Mate Between Coordinate Systems" link="https://www.codestack.net/2018/03/solidworks-api-assembly-add-mate-between-coord-sys.html" />
+            <Article id="0_2_4_4" name="Display Assembly Visualization Page" link="https://www.codestack.net/2018/03/solidworks-api-assembly-display-assm-visual-tool.html" />
+            <Article id="0_2_4_5" name="Get Instance Id Of Component" link="https://www.codestack.net/2018/03/solidworks-api-assembly-get-component-instance-id.html" />
+            <Article id="0_2_4_6" name="Traversing The Components Tree" link="https://www.codestack.net/2018/03/solidworks-api-assembly-traverse-comps-tree.html" />
+            <Article id="0_2_4_7" name="Count All Selected Components" link="https://www.codestack.net/2018/03/solidworks-api-assembly-count-selected-components.html" />
+            <Article id="0_2_4_8" name="Break All External References For Components" link="https://www.codestack.net/2018/03/solidworks-api-assembly-break-all-external-references-for-components.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_2_5" name="Dimensions" link="#">
+          <Nodes>
+            <Article id="0_2_5_1" name="Find-Replace Text In Dimension Names" link="https://www.codestack.net/2018/03/find-replace-text-in-dimension-names.html" />
+            <Article id="0_2_5_2" name="Add Smart Dimension Between Two Segments" link="https://www.codestack.net/2018/03/solidworks-api-dimensions-add-dimensions-to-sketch-segment.html" />
+            <Article id="0_2_5_3" name="Add Equation To Dimension" link="https://www.codestack.net/2018/03/solidworks-api-dimensions-add-equation-to-dim.html" />
+            <Article id="0_2_5_4" name="Create Configuration With Average Dimension Values" link="https://www.codestack.net/2018/03/solidworks-api-dimensions-average-dims.html" />
+            <Article id="0_2_5_5" name="Add Dimensions To Bend Lines" link="https://www.codestack.net/2018/03/solidworks-api-dimensions-dimension-bend-lines.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_2_6" name="Sketch" link="#">
+          <Nodes>
+            <Article id="0_2_6_1" name="Align Line Along Axis" link="https://www.codestack.net/2018/03/solidworks-api-sketch-align-line-relations.html" />
+            <Article id="0_2_6_2" name="Hide All Sketches" link="https://www.codestack.net/2018/03/solidworks-api-sketch-hide-all-sketches.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_2_7" name="Drawing" link="#">
+          <Nodes>
+            <Article id="0_2_7_1" name="Update Referenced Configuration From BOM Tables" link="https://www.codestack.net/2018/03/update-referenced-configuration-from.html" />
+            <Article id="0_2_7_2" name="Rename Drawing Sheets With Custom Properties Values" link="https://www.codestack.net/2018/03/document_8.html" />
+            <Article id="0_2_7_3" name="Clear Revision Table And Add New Revision" link="https://www.codestack.net/2018/03/solidworks-api-drawing-clear-rev-table-add-new-row.html" />
+            <Article id="0_2_7_4" name="Change Layer For Selected Objects In Drawing" link="https://www.codestack.net/2018/03/solidworks-api-drawing-change-layer-for-selected-objects.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_2_8" name="Features Manager" link="#">
+          <Nodes>
+            <Article id="0_2_8_1" name="Catch New Feature Creation Event" link="https://www.codestack.net/2018/03/solidworks-api-features-manager-catch-adding-feat-event.html" />
+            <Article id="0_2_8_2" name="Delete Feature Folder With All Children Features" link="https://www.codestack.net/2018/04/solidworks-api-feature-manager-delete-feature-folder-with-all-children.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_2_9" name="Sheet Metal" link="#">
+          <Nodes>
+            <Article id="0_2_9_1" name="Get Sketch Lines For Sheet Metal Sketched Bend Feature" link="https://www.codestack.net/2018/03/solidworks-api-sheet-metal-get-sketched-bends.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_2_10" name="Tables" link="#">
+          <Nodes>
+            <Article id="0_2_10_1" name="Read Table Content Into Array" link="https://www.codestack.net/2018/03/solidworks-api-model-read-table-content-into-array.html" />
+            <Article id="0_2_10_2" name="Modify Holes Table Holes Location Precision" link="https://www.codestack.net/2018/04/solidworks-api-drawing-hole-table-holes-location-precision.html" />
+          </Nodes>
+        </Article>
+      </Nodes>
+    </Article>
+    <Article id="0_3" name="Application" link="#">
+      <Nodes>
+        <Article id="0_3_1" name="Documents" link="#">
+          <Nodes>
+            <Article id="0_3_1_1" name="Bring Document Foreground (Activate Document)" link="https://www.codestack.net/2018/03/bring-document-foreground-activate.html" />
+            <Article id="0_3_1_2" name="Determine The Type Of Active Document" link="https://www.codestack.net/2018/03/determine-type-of-active-document.html" />
+          </Nodes>
+        </Article>
+      </Nodes>
+    </Article>
+    <Article id="0_4" name="Data Storage" link="#">
+      <Nodes>
+        <Article id="0_4_1" name="Attributes" link="#">
+          <Nodes>
+            <Article id="0_4_1_1" name="Add Attributes With Parameters To Components And Read Values" link="https://www.codestack.net/2018/03/add-attributes-with-parameters-to.html" />
+            <Article id="0_4_1_2" name="Create Invisible Attribute" link="https://www.codestack.net/2018/03/create-invisible-attribute.html" />
+            <Article id="0_4_1_3" name="Select The Components Associated With Attributes On Select" link="https://www.codestack.net/2018/03/select-components-associated-with.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_4_2" name="Custom Properties" link="#">
+          <Nodes>
+            <Article id="0_4_2_1" name="Copy File Specific Custom Properties To Configuration Properties" link="https://www.codestack.net/2018/03/copy-file-specific-custom-properties-to.html" />
+            <Article id="0_4_2_2" name="Rename Configurations Based On Custom Property" link="https://www.codestack.net/2018/04/solidworks-api-model-rename-configurations-based-on-custom-prp.html" />
+          </Nodes>
+        </Article>
+      </Nodes>
+    </Article>
+    <Article id="0_5" name="Geometry" link="#">
+      <Nodes>
+        <Article id="0_5_1" name="Transformation" link="#">
+          <Nodes>
+            <Article id="0_5_1_1" name="Component Transformation In The Assembly" link="https://www.codestack.net/2018/03/component-transformation-in-assembly.html" />
+            <Article id="0_5_1_2" name="Create A Rotational Transformation Based On Circular Pattern Data" link="https://www.codestack.net/2018/03/create-rotational-transformation-based.html" />
+            <Article id="0_5_1_3" name="Create Vector Normal To Screen View" link="https://www.codestack.net/2018/04/solidworks-api-transformation-create-vector-normal-to-screen-view.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_5_2" name="Get Extreme Points On Body" link="https://www.codestack.net/2018/03/get-extreme-points-on-body.html" />
+        <Article id="0_5_3" name="Create Sketch Points On Selected Edge" link="https://www.codestack.net/2018/03/this-macro-creates-specified-number-of.html" />
+        <Article id="0_5_4" name="Get The Sheet Body Geometry Type" link="https://www.codestack.net/2018/03/solidworks-api-geometry-get-body-geometry-type.html" />
+      </Nodes>
+    </Article>
+    <Article id="0_6" name="Adornment" link="#">
+      <Nodes>
+        <Article id="0_6_1" name="OLE Objects" link="#">
+          <Nodes>
+            <Article id="0_6_1_1" name="Move Design Table OLE Object" link="https://www.codestack.net/2018/03/move-design-table-ole-object.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_6_2" name="Callouts" link="#">
+          <Nodes>
+            <Article id="0_6_2_1" name="Display Callouts With Diameters For All Selected Circular Edges" link="https://www.codestack.net/2018/03/display-callouts-with-diameters-for-all.html" />
+            <Article id="0_6_2_2" name="Create Multiple Rows Callout" link="https://www.codestack.net/2018/04/solidworks-api-adornment-create-multirow-callout.html" />
+          </Nodes>
+        </Article>
+        <Article id="0_6_3" name="Open GL" link="X" />
+      </Nodes>
+    </Article>
+    <Article id="0_7" name="Deployment" link="#">
+      <Nodes>
+        <Article id="0_7_1" name="Creating Installer" link="X" />
+      </Nodes>
+    </Article>
+  </Articles>
+</Book>
